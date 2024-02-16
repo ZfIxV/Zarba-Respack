@@ -1,7 +1,7 @@
 ![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zarba%20Respack%20-%20Header.png)
 <div align="center">
 
-**Zarba Respack**
+**Zarba 材質包**
 
 **一款基於 彩虹點數 的材質包**
 
