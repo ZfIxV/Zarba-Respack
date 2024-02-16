@@ -1,4 +1,4 @@
-
+![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zecoar%20Modpack%20-%20Header.png)
 <div align="center">
 
 **Zarba Respack**
@@ -29,3 +29,10 @@ The language you are currently using is`English`
 您当前使用的语言是`英文`
 
 [单击这里](https://github.com/ZfIxV/Zarba-Respack/tree/main/README.md)以切换至简体中文
+
+**How to import Zarba Resourcepack**
+
+1. Open your Minecraft
+2. Click `Option`
+3. Click `Resource Packs`
+4. Drag the Zarba Resourcepack into the window or click 'Open Pack Folder' and copy the Zarba Resourcepack to that folder.

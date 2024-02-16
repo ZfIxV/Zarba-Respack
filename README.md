@@ -1,4 +1,4 @@
-
+![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zecoar%20Modpack%20-%20Header.png)
 <div align="center">
 
 **Zarba Respack**
@@ -30,3 +30,9 @@ The language you are currently using is`Chinese (Simplified)`
 
 [Click here](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-EN.md) to change to English
 
+**怎么导入 Zarba 材质包**
+
+1. 打开您的我的世界
+2. 单击`选项`
+3. 单击`资源包`
+4. 将 Zarba 材质包拖入窗口或者单击`打开包文件夹`并将 Zarba 材质包复制到该文件夹
