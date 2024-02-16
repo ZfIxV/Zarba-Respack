@@ -3,19 +3,19 @@
 
 **Zarba Respack**
 
-**A resoucepack based on Rainbow Pixel**
+**무지개 픽셀 기반 소재 패키지**
 
-| Resourcepack | Latest Ver. | Available Zecoar Modpack Ver. | Minecraft Ver. |
+| 리소스 팩 | 최신 버전 | 사용 가능한 Zecoar 패키지 버전 | Minecraft 버전 |
 | :-: | :-: | :-: | :-: |
-| Zarba Base | Unavailable | Unavailable | 1.21 |
-| Zarba GUI | Unavailable | Unavailable | 1.21 |
-| Zarba 3D | Unavailable | Unavailable | 1.21 |
+| Zarba Base | 사용할 수 없음 | 사용할 수 없음 | 1.21 |
+| Zarba GUI | 사용할 수 없음 | 사용할 수 없음 | 1.21 |
+| Zarba 3D | 사용할 수 없음 | 사용할 수 없음 | 1.21 |
 
 </div>
 
 <div align="center">
   
-**Dedicated to players who enjoy using the Rainbow Pixel Resourcepack**
+**무지개 픽셀을 애용하시는 분들께 바칩니다.**
 
 </div>
 
@@ -30,7 +30,7 @@
 [[日本語]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-JP.md)   現在使用している言語は`韓国語`です        
 [[한국어]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`한국어`입니다         
 
-**How to import Zarba Resourcepack**
+**Zarba 소재 가방을 가져오는 방법**
 
 1. Minecraft 열기
 2. 클릭 `설정`
