@@ -3,36 +3,37 @@
 
 **Zarba Respack**
 
-**一款基于 彩虹像素 的材质包**
+**A resoucepack based on Rainbow Pixel**
 
-| 材质包 | 最新版本 | 适用的 Zecoar 版本 | 我的世界版本 |
+| Resourcepack | Latest Ver. | Available Zecoar Modpack Ver. | Minecraft Ver. |
 | :-: | :-: | :-: | :-: |
-| Zarba Base | 0.1 | Unavailable | 1.21 |
-| Zarba GUI | 0.1 | Unavailable | 1.21 |
-| Zarba 3D | 0.1 | Unavailable | 1.21 |
+| Zarba Base | Unavailable | Unavailable | 1.21 |
+| Zarba GUI | Unavailable | Unavailable | 1.21 |
+| Zarba 3D | Unavailable | Unavailable | 1.21 |
+
 </div>
 
 <div align="center">
   
-**献给喜欢使用 彩虹像素 的玩家**
+**Dedicated to players who enjoy using the Rainbow Pixel Resourcepack**
 
 </div>
 
 #               
 
-**语言 | Language**
+**Language | 语言**
 
-您当前使用的语言是`简体中文`
+The language you are currently using is`English`
 
-[单击这里](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-EN.md)以切换至英文
+[Click here](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-SC.md) to change to Chinese (Simplified)
 
-The language you are currently using is`Chinese (Simplified)`
+您当前使用的语言是`英文`
 
-[Click here](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-EN.md) to change to English
+[单击这里](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-SC.md)以切换至简体中文
 
-**怎么导入 Zarba 材质包**
+**How to import Zarba Resourcepack**
 
-1. 打开您的我的世界
-2. 单击`选项`
-3. 单击`资源包`
-4. 将 Zarba 材质包拖入窗口或者单击`打开包文件夹`并将 Zarba 材质包复制到该文件夹
+1. Open your Minecraft
+2. Click `Option`
+3. Click `Resource Packs`
+4. Drag the Zarba Resourcepack into the window or click 'Open Pack Folder' and copy the Zarba Resourcepack to that folder.
