@@ -26,7 +26,7 @@
 The language you are currently using is `Chinese (Traditional)`         
 您当前使用的语言是`繁体中文`         
 您當前使用的語言是`繁體中文`         
-El idioma que utiliza actualmente es `inglés`        
+El idioma que utiliza actualmente es `Chino tradicional`        
 現在使用している言語は`繁体字中国語`です        
 현재 사용하고 있는 언어는`중국어 번체`입니다         
 
