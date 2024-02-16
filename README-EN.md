@@ -1,4 +1,4 @@
-![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zecoar%20Modpack%20-%20Header.png)
+![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zarba%20Respack%20-%20Header.png)
 <div align="center">
 
 **Zarba Respack**
@@ -7,8 +7,9 @@
 
 | Resourcepack | Latest Ver. | Available Zecoar Modpack Ver. | Minecraft Ver. |
 | :-: | :-: | :-: | :-: |
-| Zarba Resourcepack | Unavailable | Unavailable | 1.21 |
-| Zarba Resourcepack Beta | 0.1 | Unavailable | 1.21 |
+| Zarba Base | 0.1 | Unavailable | 1.21 |
+| Zarba GUI | 0.1 | Unavailable | 1.21 |
+| Zarba 3D | 0.1 | Unavailable | 1.21 |
 
 </div>
 

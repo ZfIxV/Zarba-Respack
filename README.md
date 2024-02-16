@@ -1,4 +1,4 @@
-![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zecoar%20Modpack%20-%20Header.png)
+![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zarba%20Respack%20-%20Header.png)
 <div align="center">
 
 **Zarba Respack**
@@ -7,9 +7,9 @@
 
 | 材质包 | 最新版本 | 适用的 Zecoar 版本 | 我的世界版本 |
 | :-: | :-: | :-: | :-: |
-| Zarba 材质包 | 暂无 | 暂无 | 1.21 |
-| Zarba 材质包测试版 | 0.1 | 暂无 | 1.21 |
-
+| Zarba Base | 0.1 | Unavailable | 1.21 |
+| Zarba GUI | 0.1 | Unavailable | 1.21 |
+| Zarba 3D | 0.1 | Unavailable | 1.21 |
 </div>
 
 <div align="center">
