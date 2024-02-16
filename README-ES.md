@@ -24,10 +24,10 @@
 **Idiomas | Language**
 
 [[English]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README.md)   The language you are currently using is `Spanish`         
-[[简体中文]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-SC.md)   您当前使用的语言是`英文`         
+[[简体中文]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-SC.md)   您当前使用的语言是`西班牙语`         
 [[繁體中文]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-TC.md)   您當前使用的語言是`西班牙語`         
 [[Español]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-ES.md)   El idioma que utiliza actualmente es `Español`        
-[[日本語]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-JP.md)   現在使用している言語は`English`です        
+[[日本語]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-JP.md)   現在使用している言語は`スペイン語`です        
 [[한국어]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`스페인어`입니다         
 
 **Cómo importar el paquete de recursos Zarba**
