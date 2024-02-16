@@ -23,19 +23,12 @@
 
 **언어 | Language**
 
-The language you are currently using is `Korean`         
-您当前使用的语言是`韩语`         
-您當前使用的語言是`韓語`         
-El idioma que utiliza actualmente es `Coreano`        
-現在使用している言語は`韓国語`です        
-현재 사용하고 있는 언어는`한국어`입니다         
-
-[English](https://github.com/ZfIxV/Zarba-Respack/tree/main/README.md)           
-[简体中文](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-SC.md)            
-[繁體中文](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-TC.md)            
-[Español](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-ES.md)            
-[日本語](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-JP.md)           
-[한국어](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-KO.md)            
+[[English]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README.md)   The language you are currently using is `Korean`         
+[[简体中文]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-SC.md)   您当前使用的语言是`韩语`         
+[[繁體中文]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-TC.md)   您當前使用的語言是`韓語`         
+[[Español]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-ES.md)   El idioma que utiliza actualmente es `Coreano`        
+[[日本語]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-JP.md)   現在使用している言語は`韓国語`です        
+[[한국어]](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`한국어`입니다         
 
 **How to import Zarba Resourcepack**
 
