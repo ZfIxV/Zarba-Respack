@@ -23,12 +23,12 @@
 
 **Language | 语言**
 
-The language you are currently using is `English`         
-您当前使用的语言是`英文`         
-您當前使用的語言是`英文`         
-El idioma que utiliza actualmente es `inglés`        
-現在使用している言語は`English`です        
-현재 사용하고 있는 언어는`English`입니다         
+The language you are currently using is `Korean`         
+您当前使用的语言是`韩语`         
+您當前使用的語言是`韓語`         
+El idioma que utiliza actualmente es `Coreano`        
+現在使用している言語は`韓国語`です        
+현재 사용하고 있는 언어는`한국어`입니다         
 
 [English](https://github.com/ZfIxV/Zarba-Respack/tree/main/README.md)           
 [简体中文](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-SC.md)            
@@ -39,7 +39,7 @@ El idioma que utiliza actualmente es `inglés`
 
 **How to import Zarba Resourcepack**
 
-1. Open your Minecraft
-2. Click `Option`
-3. Click `Resource Packs`
-4. Drag the Zarba Resourcepack into the window or click `Open Pack Folder` and copy the Zarba Resourcepack to that folder.
+1. Minecraft 열기
+2. 클릭 `설정`
+3. 클릭 `리소스 팩`
+4. Zarba 재료 패키지를 윈도우로 드래그하거나 `팩 폴더 열기`를 클릭하여 해당 폴더로 복사합니다.

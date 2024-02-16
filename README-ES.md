@@ -1,0 +1,45 @@
+![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zarba%20Respack%20-%20Header.png)
+<div align="center">
+
+**Zarba Respack**
+
+**A resouchpack base en Rainbow Pixel**
+
+| Paquete de recursos | La última Ver. | Ver. disponible del paquete de módulos Zecoar | Minecraft Ver. |
+| :-: | :-: | :-: | :-: |
+| Zarba Base | No disponible | No disponible | 1.21 |
+| Zarba GUI | No disponible | No disponible | 1.21 |
+| Zarba 3D | No disponible | No disponible | 1.21 |
+
+</div>
+
+<div align="center">
+  
+**Dedicado a los jugadores que les gusta usar Píxeles de Arco iris**
+
+</div>
+
+#               
+
+**Language | Idiomas**
+
+The language you are currently using is `Spanish`         
+您当前使用的语言是`英文`         
+您當前使用的語言是`西班牙語`         
+El idioma que utiliza actualmente es `Español`        
+現在使用している言語は`English`です        
+현재 사용하고 있는 언어는`스페인어`입니다         
+
+[English](https://github.com/ZfIxV/Zarba-Respack/tree/main/README.md)           
+[简体中文](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-SC.md)            
+[繁體中文](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-TC.md)            
+[Español](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-ES.md)            
+[日本語](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-JP.md)           
+[한국어](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-KO.md)            
+
+**Cómo importar el paquete de recursos Zarba**
+
+1. Abre tu Minecraft
+2. Haga clic `Opciones`
+3. Haga clic `Paquete de recursos`
+4. Arrastre el paquete de material Zarba a la ventana o haga clic en `Abrir carpeta de paquetes` y copie el paquete de material Zarba a esa carpeta
