@@ -21,7 +21,7 @@
 
 #               
 
-**Language | 語言**
+**語言 | Language**
 
 The language you are currently using is `Chinese (Traditional)`         
 您当前使用的语言是`繁体中文`         

@@ -21,7 +21,7 @@
 
 #               
 
-**Language | 言語**
+**言語 | Language**
 
 The language you are currently using is `Japanese`         
 您当前使用的语言是`日语`         

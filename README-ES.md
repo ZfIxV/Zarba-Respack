@@ -21,7 +21,7 @@
 
 #               
 
-**Language | Idiomas**
+**Idiomas | Language**
 
 The language you are currently using is `Spanish`         
 您当前使用的语言是`英文`         

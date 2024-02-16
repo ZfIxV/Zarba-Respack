@@ -21,7 +21,7 @@
 
 #               
 
-**Language | 语言**
+**언어 | Language**
 
 The language you are currently using is `Korean`         
 您当前使用的语言是`韩语`         
