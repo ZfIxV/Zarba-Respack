@@ -5,11 +5,11 @@
 
 **A resouchpack base en Rainbow Pixel**
 
-| Paquete de recursos | La última Ver. | Ver. disponible del paquete de módulos Zecoar | Minecraft Ver. |
-| :-: | :-: | :-: | :-: |
-| Zarba Base | No disponible | No disponible | 1.21 |
-| Zarba GUI | No disponible | No disponible | 1.21 |
-| Zarba 3D | No disponible | No disponible | 1.21 |
+| Paquete de recursos | La última Ver. | Minecraft Ver. |
+| :-: | :-: | :-: |
+| Zarba Base | No disponible | 1.21 |
+| Zarba GUI | No disponible | 1.21 |
+| Zarba 3D | No disponible | 1.21 |
 
 </div>
 

@@ -5,11 +5,11 @@
 
 **一款基於 彩虹點數 的材質包**
 
-| 材質包 | 最新版本 | 適用的 Zecoar 版本 | 我的世界版本 |
-| :-: | :-: | :-: | :-: |
-| Zarba Base | Unavailable | Unavailable | 1.21 |
-| Zarba GUI | Unavailable | Unavailable | 1.21 |
-| Zarba 3D | Unavailable | Unavailable | 1.21 |
+| 材質包 | 最新版本 | 我的世界版本 |
+| :-: | :-: | :-: |
+| Zarba Base | 不可用 | 1.21 |
+| Zarba GUI | 不可用 | 1.21 |
+| Zarba 3D | 不可用 | 1.21 |
 
 </div>
 

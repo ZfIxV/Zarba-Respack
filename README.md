@@ -5,11 +5,11 @@
 
 **A resoucepack based on Rainbow Pixel**
 
-| Resourcepack | Latest Ver. | Available Zecoar Modpack Ver. | Minecraft Ver. |
-| :-: | :-: | :-: | :-: |
-| Zarba Base | Unavailable | Unavailable | 1.21 |
-| Zarba GUI | Unavailable | Unavailable | 1.21 |
-| Zarba 3D | Unavailable | Unavailable | 1.21 |
+| Resourcepack | Latest Ver. | Minecraft Ver. |
+| :-: | :-: | :-: |
+| Zarba Base | Unavailable | 1.21 |
+| Zarba GUI | Unavailable | 1.21 |
+| Zarba 3D | Unavailable | 1.21 |
 
 </div>
 
