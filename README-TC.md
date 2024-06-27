@@ -7,9 +7,13 @@
 
 | 材質包 | 最新版本 | 我的世界版本 |
 | :-: | :-: | :-: |
-| Zarba Base | 不可用 | 1.21 |
-| Zarba GUI | 不可用 | 1.21 |
-| Zarba 3D | 不可用 | 1.21 |
+| Zarba Base | 0.3 | 1.21 |
+| Zarba GUI | 1.0 | 1.21 |
+| Zarba 3D | 1.0 | 1.21 |
+
+| Minecraft Ver. | Zarba Base | Zarba GUI | Zarba 3D |
+| :-: | :-: | :-: | :-: |
+| 1.21 | 可用 | 可用 | 可用 |
 
 </div>
 

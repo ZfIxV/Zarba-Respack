@@ -7,9 +7,13 @@
 
 | 리소스 팩 | 최신 버전 | Minecraft 버전 |
 | :-: | :-: | :-: |
-| Zarba Base | 사용할 수 없음 | 1.21 |
-| Zarba GUI | 사용할 수 없음 | 1.21 |
-| Zarba 3D | 사용할 수 없음 | 1.21 |
+| Zarba Base | 0.3 | 1.21 |
+| Zarba GUI | 1.0 | 1.21 |
+| Zarba 3D | 1.0 | 1.21 |
+
+| Minecraft Ver. | Zarba Base | Zarba GUI | Zarba 3D |
+| :-: | :-: | :-: | :-: |
+| 1.21 | 획득 가능 | 획득 가능 | 획득 가능 |
 
 </div>
 

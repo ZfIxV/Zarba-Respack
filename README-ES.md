@@ -7,9 +7,13 @@
 
 | Paquete de recursos | La última Ver. | Minecraft Ver. |
 | :-: | :-: | :-: |
-| Zarba Base | No disponible | 1.21 |
-| Zarba GUI | No disponible | 1.21 |
-| Zarba 3D | No disponible | 1.21 |
+| Zarba Base | 0.3 | 1.21 |
+| Zarba GUI | 1.0 | 1.21 |
+| Zarba 3D | 1.0 | 1.21 |
+
+| Minecraft Ver. | Zarba Base | Zarba GUI | Zarba 3D |
+| :-: | :-: | :-: | :-: |
+| 1.21 | Disponible | Disponible | Disponible |
 
 </div>
 

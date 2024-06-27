@@ -7,9 +7,13 @@
 
 | Resourcepack | Latest Ver. | Minecraft Ver. |
 | :-: | :-: | :-: |
-| Zarba Base | Unavailable | 1.21 |
-| Zarba GUI | Unavailable | 1.21 |
-| Zarba 3D | Unavailable | 1.21 |
+| Zarba Base | 0.3 | 1.21 |
+| Zarba GUI | 1.0 | 1.21 |
+| Zarba 3D | 1.0 | 1.21 |
+
+| Minecraft Ver. | Zarba Base | Zarba GUI | Zarba 3D |
+| :-: | :-: | :-: | :-: |
+| 1.21 | Available | Available | Available |
 
 </div>
 

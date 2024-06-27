@@ -7,9 +7,13 @@
 
 | リソースパツ𠂊 | 最新バージョン | Minecraft バージョン |
 | :-: | :-: | :-: |
-| Zarba Base | 使用できません | 1.21 |
-| Zarba GUI | 使用できません | 1.21 |
-| Zarba 3D | 使用できません | 1.21 |
+| Zarba Base | 0.3 | 1.21 |
+| Zarba GUI | 1.0 | 1.21 |
+| Zarba 3D | 1.0 | 1.21 |
+
+| Minecraft Ver. | Zarba Base | Zarba GUI | Zarba 3D |
+| :-: | :-: | :-: | :-: |
+| 1.21 | 入手可能 | 入手可能 | 入手可能 |
 
 </div>
 
