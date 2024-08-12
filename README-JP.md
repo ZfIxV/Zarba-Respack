@@ -1,4 +1,7 @@
 ![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zarba%20Respack%20-%20Header.png)
+
+**注：このリソースパツ𠂊はGithubでは使用されていません。こちらの[Modrinthページ](https://modrinth.com/resourcepack/zarba-respack/)**
+
 <div align="center">
 
 **Zarba リソースパツ𠂊**

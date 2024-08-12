@@ -1,4 +1,7 @@
 ![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zarba%20Respack%20-%20Header.png)
+
+**참고: 이 리소스 팩 은 Github에서 더 이상 사용되지 않습니다. [Modrinth 페이지](https://modrinth.com/resourcepack/zarba-respack/)**
+
 <div align="center">
 
 **Zarba 리소스 팩**

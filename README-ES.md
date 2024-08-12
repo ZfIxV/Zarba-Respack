@@ -1,4 +1,7 @@
 ![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zarba%20Respack%20-%20Header.png)
+
+**nota: este resouchpack ha sido abandonado en Github, por favor muevase a nuestra [página Modrinth](https://modrinth.com/resourcepack/zarba-respack/)**
+
 <div align="center">
 
 **Zarba Resouchpack**

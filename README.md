@@ -1,4 +1,7 @@
 ![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zarba%20Respack%20-%20Header.png)
+
+**Attention: This resourcepack is deprecated on Github, please move to our [Modrinth page](https://modrinth.com/resourcepack/zarba-respack/)**
+
 <div align="center">
 
 **Zarba Respack**

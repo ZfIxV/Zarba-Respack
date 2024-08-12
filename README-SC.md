@@ -1,4 +1,7 @@
 ![Cover](https://github.com/ZfIxV/Zarba-Respack/blob/main/Zarba%20Respack%20-%20Header.png)
+
+**注意: 该材质包在Github上已被遗弃，请移步至我们的[Modrinth页面](https://modrinth.com/resourcepack/zarba-respack/)**
+
 <div align="center">
 
 **Zarba 材质包**
