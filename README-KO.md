@@ -7,7 +7,7 @@
 
 | 리소스 팩 | 최신 버전 | Minecraft 버전 |
 | :-: | :-: | :-: |
-| Zarba Base | 0.3 | 1.21 |
+| Zarba Base | 1.0 | 1.21 |
 | Zarba GUI | 1.0 | 1.21 |
 | Zarba 3D | 1.0 | 1.21 |
 
